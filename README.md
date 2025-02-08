@@ -1,4 +1,4 @@
-# Matrix Multiplication: Algorithms Explored  
+# Matrix Multiplication: Algorithms  
 
 In this project, I dive into the fundamental operation of matrix multiplication, which has applications in fields such as computer graphics, quantum mechanics, and machine learning.  
 
